@@ -2,5 +2,6 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "ARRAY8.C": "cpp"
-    }
+    },
+    "git.ignoreLimitWarning": true
 }
